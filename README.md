@@ -7,7 +7,8 @@
 ## ✨ 自己紹介
 - 🌟 **得意なフレームワーク**:
   - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+  - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)   
 - 💻 **フロントエンド**と**バックエンド**の両方でプロジェクトを担当できます。
 - 🚀 チームと協力し、迅速で質の高いソリューションを提供します。
 
@@ -18,5 +19,3 @@
 - 🌐 **ウェブサイト**: [office-navi.jp](https://www.office-navi.jp)
 
 ---
-
-*ご覧いただきありがとうございます！これからもよろしくお願いいたします。*
