@@ -1,5 +1,4 @@
 
-私は **タン ユーレ (Tan YouLe)** です。  
 
 - 🌟 **フレームワーク**:
   - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
